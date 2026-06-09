@@ -23,7 +23,7 @@ public class HibernateUtil {
 			properties.put(AvailableSettings.DRIVER, "com.mysql.cj.jdbc.Driver");
 			properties.put(AvailableSettings.URL, "jdbc:mysql://localhost:3306/expense_tracker_db");
 			properties.put(AvailableSettings.USER, "root");
-			properties.put(AvailableSettings.PASS, "Luffy@2004");
+			properties.put(AvailableSettings.PASS, "root");
 			properties.put(AvailableSettings.DIALECT, "org.hibernate.dialect.MySQL8Dialect");
 			properties.put(AvailableSettings.HBM2DDL_AUTO, "update");
 			properties.put(AvailableSettings.SHOW_SQL, true);
