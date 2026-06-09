@@ -45,13 +45,13 @@ pom.xml
 
 ![Register Page](screenshots/register.png)
 
-### User Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
 ### Add Expense
 
-![Add Expense](screenshots/add-expense.png)
+![Dashboard](screenshots/add_expense.png)
+
+### View Expense
+
+![Add Expense](screenshots/view_expense.png)
 
 ## Database
 
